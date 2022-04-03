@@ -6,9 +6,9 @@
 
 => [ババ抜きプログラム - ロジック構築でPython中級者を目指すプログラミングコース](https://www.udemy.com/course/logic_python_babanuki/?referralCode=D4CD90B669B82FA756C1)
 
-こちらでは他のコースも含め、クーポンも配布しています。
+次のリンク他のコースも含め、クーポンも配布しています。
 
-=> [HP](https://takuma.one)
+=> [講師HP](https://takuma.one)
 
 内容としては、各セクション終了時点ごとのソースコードを各 sec フォルダへ掲載しています。
 
