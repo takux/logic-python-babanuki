@@ -2,7 +2,11 @@
 
 ## はじめに
 
-こちらでは Udemy講座[ババ抜きプログラム - ロジック構築でPython中級者を目指すプログラミングコース](https://www.udemy.com/course/logic_python_babanuki/?referralCode=D4CD90B669B82FA756C1) で使用しているソースコードを掲載しています。
+こちらでは Udemy講座 で使用しているソースコードを掲載しています。
+
+=> [ババ抜きプログラム - ロジック構築でPython中級者を目指すプログラミングコース](https://www.udemy.com/course/logic_python_babanuki/?referralCode=D4CD90B669B82FA756C1)
+
+内容としては、
 
 - 各セクション終了時点ごとのソースコードを各 sec フォルダへ掲載しています。
 
