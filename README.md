@@ -1,27 +1,28 @@
 # ババ抜きプログラム - ロジック構築でPython中級者を目指すプログラミングコース
 
+
+=> [ババ抜きプログラム - ロジック構築でPython中級者を目指すプログラミングコース](https://www.udemy.com/course/logic_python_babanuki/?referralCode=D4CD90B669B82FA756C1)
+
+次のリンクでは他のコースも含め、お得なクーポンを配布していますのでぜひご覧ください。
+
+=> [講師ホームページ](https://takuma.one)
+
 <br />
 
 ## はじめに
 
-こちらでは Udemy講座 で使用しているソースコードを掲載しています。
-
-=> [ババ抜きプログラム - ロジック構築でPython中級者を目指すプログラミングコース](https://www.udemy.com/course/logic_python_babanuki/?referralCode=D4CD90B669B82FA756C1)
-
-次のリンク他のコースも含め、クーポンも配布しています。
-
-=> [講師HP](https://takuma.one)
-
-内容としては、各セクション終了時点ごとのソースコードを各 sec フォルダへ掲載しています。
-
+こちらのリポジトリでは [Udemyのババ抜きプログラムコース](https://www.udemy.com/course/logic_python_babanuki/?referralCode=D4CD90B669B82FA756C1) で使用しているソースコードを掲載しています。各セクション終了時点ごとのソースコードを各 secフォルダ へ掲載しています。
 
 <br />
 
 ## 講師の環境
 
+本コースでの講師の環境次のようになります。
+
 - 実行環境: Google Colab
 - Python: 3.7系  
   ＊colabでは3.7系でしたので念の為記載しています。しかしながらそれ以上に高いバージョンでも問題ないと思います。（参考までに）3.9や3.10以上では関数注釈へより詳細な型指定を記載しておくこともできます。typingモジュールを使えば3.7系でも詳細な注釈を付けることもできます。
+- PC: Mac
 
 <br />
 
