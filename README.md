@@ -1,11 +1,11 @@
 # ババ抜きプログラム - ロジック構築でPython中級者を目指すプログラミングコース
 
 
-=> [ババ抜きプログラム - ロジック構築でPython中級者を目指すプログラミングコース](https://www.udemy.com/course/logic_python_babanuki/?referralCode=D4CD90B669B82FA756C1)
+- [ババ抜きプログラム - ロジック構築でPython中級者を目指すプログラミングコース](https://www.udemy.com/course/logic_python_babanuki/?referralCode=D4CD90B669B82FA756C1)
 
 次のリンクでは他のコースも含め、お得なクーポンを配布していますのでぜひご覧ください。
 
-=> [講師ホームページ](https://takux.one)
+=- [講師ホームページ](https://www.takux.one)
 
 <br />
 
